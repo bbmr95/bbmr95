@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bbmr95
+- 👋 Hi, I’m Bruno Mosquera Rodríguez
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Python and Data Architecture
 - 💞️ I’m looking to collaborate on Data Analysis and Business Intelligence
